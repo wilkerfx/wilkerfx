@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilker Flores</h1>
-<h3 align="center">A Software Developer from the earth planet</h3>
+<h3 align="center">A Compter Programmer from planet earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilkerfx&label=Profile%20views&color=0e75b6&style=flat" alt="wilkerfx" /> </p>
 
