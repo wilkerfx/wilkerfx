@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BIODEV](https://biodevv.herokuapp.com/)
 
-- 🌱 I’m currently learning **Microsoft Azure**
+- 🌱 I’m currently learning **Cloud Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wilkerfx/](https://github.com/wilkerfx/)
 
