@@ -33,5 +33,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wilkerfx&show_icons=true&locale=en" alt="wilkerfx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilkerfx&" alt="wilkerfx" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wilkerfx&" alt="wilkerfx" /></p>
 
