@@ -4,17 +4,15 @@
 
 - 🔭 I’m currently working on [BIODEV](https://biodevv.herokuapp.com/)
 
-- 🌱 I’m currently learning **Cloud Architecture**
+- 🌱 I’m learning **Cloud Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wilkerfx/](https://github.com/wilkerfx/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/](https://www.linkedin.com/)
 
-- 💬 Ask me about **python, django, sql, html, css, git, docker**
+- 💬 Ask me about **python, django, sql, html, git, docker**
 
 - 📫 How to reach me **wilker.flores@protonmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/wilkerfx/](https://www.linkedin.com/in/wilkerfx/)
 
 - ⚡ Fun fact **crazy future code machine**
 
