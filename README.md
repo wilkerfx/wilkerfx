@@ -4,13 +4,11 @@
 
 - 🔭 I’m currently working on [BIODEV](https://biodevv.herokuapp.com/)
 
-- 🌱 I’m learning **Cloud Architecture**
-
-- 👨‍💻 All of my projects are available at [https://github.com/wilkerfx/](https://github.com/wilkerfx/)
+- 🌱 I’m learning **Security Architecture**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/](https://www.linkedin.com/)
 
-- 💬 Ask me about **python, django, sql, html, git, docker**
+- 💬 Ask me about **python, django, sql, html, git**
 
 - 📫 How to reach me **wilker.flores@protonmail.com**
 
