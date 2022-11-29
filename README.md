@@ -7,8 +7,7 @@
 - 🌱 I’m learning **Security Architecture**
 
 - 📫 How to reach me **wilker.flores@protonmail.com**
-
-- ⚡ Fun fact **crazy future code machine**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
