@@ -6,10 +6,6 @@
 
 - 🌱 I’m learning **Security Architecture**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/](https://www.linkedin.com/)
-
-- 💬 Ask me about **python, django, sql, html, git**
-
 - 📫 How to reach me **wilker.flores@protonmail.com**
 
 - ⚡ Fun fact **crazy future code machine**
