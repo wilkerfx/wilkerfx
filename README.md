@@ -6,7 +6,7 @@
 
 - 🌱 I’m learning **Security Architecture**
 
-- 📫 How to reach me **wilker.flores@protonmail.com**
+- 📫 Reach me **wilker.flores@protonmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
