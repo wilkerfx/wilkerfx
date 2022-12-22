@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Programmer from planet earth</h3>
 
 
-- 🔭 I’m currently working on [BIODEV](https://biodevv.herokuapp.com/)
+- 🔭 I’m currently working on [BIODEV](https://biodev.herokuapp.com/)
 
 - 🌱 I’m learning **Security Architecture**
 
