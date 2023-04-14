@@ -19,6 +19,7 @@ I am open to connections and partnerships that can help us achieve our growth an
 
 In summary, I am an experienced and motivated IT professional, determined to contribute to the development of my country and the world through technological innovation. I look forward to connecting with people who share this same passion and together building a bright future.
 
+
 - 📫 Reach me **wilker.flores@protonmail.com**
 
 
